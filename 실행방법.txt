@@ -1,0 +1,1 @@
+제출한 zip 파일 압축해제하고 WcPlayerMangement.sln 파일 실행하시면 됩니다.
